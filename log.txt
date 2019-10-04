@@ -138,3 +138,374 @@ preview song: https://p.scdn.co/mp3-preview/aae5c4be674f1afbe89709e2d60f4c129f7a
 album: Ultimate
 artist(s): Prince
 *****************************
+**********SONG INFO*********
+0
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=56e17ae275624cd39d8d45c0a398afff
+album: Harry Styles
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+1
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+2
+song name: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=56e17ae275624cd39d8d45c0a398afff
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+3
+song name: Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)
+preview song: null
+album: Revenge Of The Dreamers III
+artist(s): Dreamville
+*****************************
+**********SONG INFO*********
+4
+song name: Impatient
+preview song: null
+album: Late Nights: The Album
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+5
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=56e17ae275624cd39d8d45c0a398afff
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+6
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=56e17ae275624cd39d8d45c0a398afff
+album: Sign of the Times
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+7
+song name: Way Back Home (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/bcd284558721549751344590778ffa6efa3d7862?cid=56e17ae275624cd39d8d45c0a398afff
+album: The Lost Boy
+artist(s): YBN Cordae
+*****************************
+**********SONG INFO*********
+8
+song name: Hottest In The City
+preview song: https://p.scdn.co/mp3-preview/16c147262bc4013045292a2756412844f69196aa?cid=56e17ae275624cd39d8d45c0a398afff
+album: Hottest In The City
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+9
+song name: Cinderella (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=56e17ae275624cd39d8d45c0a398afff
+album: The Divine Feminine
+artist(s): Mac Miller
+*****************************
+**********SONG INFO*********
+10
+song name: Do You Mean
+preview song: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=56e17ae275624cd39d8d45c0a398afff
+album: World War Joy...Takeaway
+artist(s): The Chainsmokers
+*****************************
+**********SONG INFO*********
+11
+song name: The Light
+preview song: null
+album: The Light
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+12
+song name: Love U Better (feat. Lil Wayne & The-Dream)
+preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=56e17ae275624cd39d8d45c0a398afff
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+13
+song name: The Light
+preview song: null
+album: MIH-TY
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+14
+song name: Woah (feat. Miguel & Ty Dolla $ign)
+preview song: null
+album: The World Is Yours 2
+artist(s): Rich The Kid
+*****************************
+**********SONG INFO*********
+15
+song name: Movin’ Up
+preview song: null
+album: Quality Control: Control The Streets Volume 1
+artist(s): Quality Control
+*****************************
+**********SONG INFO*********
+16
+song name: Warning Sign
+preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=56e17ae275624cd39d8d45c0a398afff
+album: A Rush of Blood to the Head
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+17
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=56e17ae275624cd39d8d45c0a398afff
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+18
+song name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+preview song: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=56e17ae275624cd39d8d45c0a398afff
+album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+artist(s): Juicy J
+*****************************
+**********SONG INFO*********
+19
+song name: Droptop in the Rain (feat. Tory Lanez)
+preview song: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=56e17ae275624cd39d8d45c0a398afff
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+0
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=56e17ae275624cd39d8d45c0a398afff
+album: Harry Styles
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+1
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+2
+song name: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=56e17ae275624cd39d8d45c0a398afff
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+3
+song name: Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)
+preview song: null
+album: Revenge Of The Dreamers III
+artist(s): Dreamville
+*****************************
+**********SONG INFO*********
+4
+song name: Impatient
+preview song: null
+album: Late Nights: The Album
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+5
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=56e17ae275624cd39d8d45c0a398afff
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+6
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=56e17ae275624cd39d8d45c0a398afff
+album: Sign of the Times
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+7
+song name: Way Back Home (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/bcd284558721549751344590778ffa6efa3d7862?cid=56e17ae275624cd39d8d45c0a398afff
+album: The Lost Boy
+artist(s): YBN Cordae
+*****************************
+**********SONG INFO*********
+8
+song name: Hottest In The City
+preview song: https://p.scdn.co/mp3-preview/16c147262bc4013045292a2756412844f69196aa?cid=56e17ae275624cd39d8d45c0a398afff
+album: Hottest In The City
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+9
+song name: Cinderella (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=56e17ae275624cd39d8d45c0a398afff
+album: The Divine Feminine
+artist(s): Mac Miller
+*****************************
+**********SONG INFO*********
+10
+song name: Do You Mean
+preview song: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=56e17ae275624cd39d8d45c0a398afff
+album: World War Joy...Takeaway
+artist(s): The Chainsmokers
+*****************************
+**********SONG INFO*********
+11
+song name: The Light
+preview song: null
+album: The Light
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+12
+song name: Love U Better (feat. Lil Wayne & The-Dream)
+preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=56e17ae275624cd39d8d45c0a398afff
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+13
+song name: The Light
+preview song: null
+album: MIH-TY
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+14
+song name: Woah (feat. Miguel & Ty Dolla $ign)
+preview song: null
+album: The World Is Yours 2
+artist(s): Rich The Kid
+*****************************
+**********SONG INFO*********
+15
+song name: Movin’ Up
+preview song: null
+album: Quality Control: Control The Streets Volume 1
+artist(s): Quality Control
+*****************************
+**********SONG INFO*********
+16
+song name: Warning Sign
+preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=56e17ae275624cd39d8d45c0a398afff
+album: A Rush of Blood to the Head
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+17
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=56e17ae275624cd39d8d45c0a398afff
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+18
+song name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+preview song: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=56e17ae275624cd39d8d45c0a398afff
+album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+artist(s): Juicy J
+*****************************
+**********SONG INFO*********
+19
+song name: Droptop in the Rain (feat. Tory Lanez)
+preview song: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=56e17ae275624cd39d8d45c0a398afff
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+0
+song name: Moon Over Marin
+preview song: https://p.scdn.co/mp3-preview/857d04fa7c85d53c8a7c52090322d57a385e03ee?cid=56e17ae275624cd39d8d45c0a398afff
+album: Plastic Surgery Disasters/In God We Trust, Inc.
+artist(s): Dead Kennedys
+*****************************
+**********SONG INFO*********
+1
+song name: Moon Over Marin
+preview song: https://p.scdn.co/mp3-preview/8811c27825ae87aeaae1032eccb990e73d9ee4e6?cid=56e17ae275624cd39d8d45c0a398afff
+album: Milking The Sacred Cow
+artist(s): Dead Kennedys
+*****************************
+**********SONG INFO*********
+2
+song name: Moon Over Marin
+preview song: https://p.scdn.co/mp3-preview/8a4316654b45bfaf0bd15e6068433e2f23a2facf?cid=56e17ae275624cd39d8d45c0a398afff
+album: Mutiny on the Bay
+artist(s): Dead Kennedys
+*****************************
+**********SONG INFO*********
+3
+song name: Moon Over Marin
+preview song: https://p.scdn.co/mp3-preview/744ece91aef3800c08496f13505cad6e4ca68fc3?cid=56e17ae275624cd39d8d45c0a398afff
+album: Virus 100
+artist(s): Les Thugs
+*****************************
+**********SONG INFO*********
+4
+song name: Moon over Marin - Live at the Farm
+preview song: https://p.scdn.co/mp3-preview/3d9679dc8f0c5d0213d10f859fc5fb25ac50ab7f?cid=56e17ae275624cd39d8d45c0a398afff
+album: DK 40 (Remastered)
+artist(s): Dead Kennedys
+*****************************
+**********SONG INFO*********
+5
+song name: Moon Over Marin
+preview song: https://p.scdn.co/mp3-preview/95c1207b1453c0f116902201b8947639b7831ff8?cid=56e17ae275624cd39d8d45c0a398afff
+album: Hospital Music
+artist(s): Matthew Good
+*****************************
+**********SONG INFO*********
+6
+song name: Moon Over Marin
+preview song: https://p.scdn.co/mp3-preview/f8eea95a796eec92b5d1cef63cdeefc297141107?cid=56e17ae275624cd39d8d45c0a398afff
+album: Grab Your Board!
+artist(s): The Tormentos
+*****************************
+**********SONG INFO*********
+7
+song name: Moon Over Marin
+preview song: https://p.scdn.co/mp3-preview/daddbe473f86666eef1cf4280eea6f4e68b3ac31?cid=56e17ae275624cd39d8d45c0a398afff
+album: Big Sounds From...
+artist(s): The Tormentos
+*****************************
+**********SONG INFO*********
+8
+song name: Moon over Marin
+preview song: https://p.scdn.co/mp3-preview/3553517b05f06ae46312f70431de653bf471ddc7?cid=56e17ae275624cd39d8d45c0a398afff
+album: Vernon Trumbull & His Kinsmen
+artist(s): Vernon Trumbull & His Kinsmen
+*****************************
+**********SONG INFO*********
+9
+song name: Moon Over Marin
+preview song: https://p.scdn.co/mp3-preview/2c41de5336583c23eaa3339f3a264d3d0286b8e5?cid=56e17ae275624cd39d8d45c0a398afff
+album: Challenges of Leisure
+artist(s): Long Thaw
+*****************************
+**********SONG INFO*********
+10
+song name: Moon Over Marin
+preview song: https://p.scdn.co/mp3-preview/e1b1e5a2ff4f947d5e1ab1c0cba3179bbb7a453c?cid=56e17ae275624cd39d8d45c0a398afff
+album: The I.V Lab Studios Session
+artist(s): Jounce
+*****************************
+**********SONG INFO*********
+11
+song name: Moon Over Marin
+preview song: https://p.scdn.co/mp3-preview/d54cd532b8711d00a6e7cd3cfc5f67a7592ba874?cid=56e17ae275624cd39d8d45c0a398afff
+album: Discography
+artist(s): Skate Korpse
+*****************************
+**********SONG INFO*********
+12
+song name: The Moon Over Marin Street
+preview song: https://p.scdn.co/mp3-preview/48affeb712b203d1393e8c506119f27f11050bf2?cid=56e17ae275624cd39d8d45c0a398afff
+album: The Yearning
+artist(s): Roadhouse Dogs
+*****************************
