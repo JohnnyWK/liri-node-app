@@ -47,7 +47,7 @@ function searchOMDB(term) {
         console.log("It's on Netflix!");
         fs.appendFileSync("log.txt", "It's on Netflix!\n");
     }
-    var queryUrl = "http://www.omdbapi.com/?t=" + term + "&y=&plot=short&apikey=trilogy";
+    var queryUrl = "http://www.omdbapi.com/?t=" + term + "&y=&plot=short&apikey=3b7fd9f2";
     request(queryUrl, function (error, response, body) {
         if (!error && response.statusCode === 200) {
             var movies = JSON.parse(body);
