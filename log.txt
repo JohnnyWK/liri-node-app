@@ -1,0 +1,140 @@
+**********SONG INFO*********
+0
+song name: Nothing Compares 2 U
+preview song: https://p.scdn.co/mp3-preview/d50d7c8ec55e72b1fef322107cc76ac5ade9c1b6?cid=56e17ae275624cd39d8d45c0a398afff
+album: I Do Not Want What I Haven't Got
+artist(s): Sinéad O'Connor
+*****************************
+**********SONG INFO*********
+1
+song name: Nothing Compares 2 U - Live At SiriusXM/2015
+preview song: null
+album: Chris Cornell (Deluxe Edition)
+artist(s): Chris Cornell
+*****************************
+**********SONG INFO*********
+2
+song name: Nothing Compares 2 U
+preview song: https://p.scdn.co/mp3-preview/9b05f86f04c686d9a9bf873d775861052162351c?cid=56e17ae275624cd39d8d45c0a398afff
+album: Nothing Compares 2 U
+artist(s): Prince
+*****************************
+**********SONG INFO*********
+3
+song name: Nothing Compares 2 U
+preview song: https://p.scdn.co/mp3-preview/d50d7c8ec55e72b1fef322107cc76ac5ade9c1b6?cid=56e17ae275624cd39d8d45c0a398afff
+album: So Far: The Best of Sinéad O'Connor
+artist(s): Sinéad O'Connor
+*****************************
+**********SONG INFO*********
+4
+song name: Nothing Compares 2 U
+preview song: https://p.scdn.co/mp3-preview/e3a6d962544270f4604a88e1e398cfde5e12d164?cid=56e17ae275624cd39d8d45c0a398afff
+album: Originals
+artist(s): Prince
+*****************************
+**********SONG INFO*********
+5
+song name: Nothing Compares 2 U
+preview song: https://p.scdn.co/mp3-preview/fb2b1b1f9ce49a43ced7a86c528546db015f6555?cid=56e17ae275624cd39d8d45c0a398afff
+album: DCX MMXVI Live
+artist(s): Dixie Chicks
+*****************************
+**********SONG INFO*********
+6
+song name: Nothing Compares 2 U (feat. Rosie Gaines) - Live
+preview song: https://p.scdn.co/mp3-preview/aae5c4be674f1afbe89709e2d60f4c129f7a997f?cid=56e17ae275624cd39d8d45c0a398afff
+album: The Hits 1
+artist(s): Prince
+*****************************
+**********SONG INFO*********
+7
+song name: Nothing Compares 2 U
+preview song: https://p.scdn.co/mp3-preview/d982364e6b14f2c16abf363cafbe02a0efaff90d?cid=56e17ae275624cd39d8d45c0a398afff
+album: Nothing Compares 2 U
+artist(s): Anna of the North
+*****************************
+**********SONG INFO*********
+8
+song name: Nothing Compares 2 U
+preview song: https://p.scdn.co/mp3-preview/0ec576f91a8717aab868d0255a69baf16ed31058?cid=56e17ae275624cd39d8d45c0a398afff
+album: Take a Break
+artist(s): Me First and the Gimme Gimmes
+*****************************
+**********SONG INFO*********
+9
+song name: Nothing Compares 2 U
+preview song: https://p.scdn.co/mp3-preview/d08bf3f44ab7e1bfeabfb716c8e04b023574479b?cid=56e17ae275624cd39d8d45c0a398afff
+album: Nothing Compares 2 U
+artist(s): Toni Cornell
+*****************************
+**********SONG INFO*********
+10
+song name: Nothing Compares 2 U
+preview song: https://p.scdn.co/mp3-preview/d61b46be09d393d4b122f841bb9a4022399c8341?cid=56e17ae275624cd39d8d45c0a398afff
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+11
+song name: Nothing compares 2 U
+preview song: https://p.scdn.co/mp3-preview/e5aa0887e5e67ed95902c7e88039321d0648fbd0?cid=56e17ae275624cd39d8d45c0a398afff
+album: Holding Back the Years
+artist(s): Jimmy Scott
+*****************************
+**********SONG INFO*********
+12
+song name: Nothing Compares 2 U
+preview song: null
+album: 90's Hits
+artist(s): Sinéad O'Connor
+*****************************
+**********SONG INFO*********
+13
+song name: Nothing Compares 2 U (feat. Rosie Gaines) - Live
+preview song: https://p.scdn.co/mp3-preview/aae5c4be674f1afbe89709e2d60f4c129f7a997f?cid=56e17ae275624cd39d8d45c0a398afff
+album: The Hits / The B-Sides
+artist(s): Prince
+*****************************
+**********SONG INFO*********
+14
+song name: Nothing Compares 2 U - Edit
+preview song: https://p.scdn.co/mp3-preview/b2594d8bf2f3f4978106a6d55b67069a00409069?cid=56e17ae275624cd39d8d45c0a398afff
+album: 4Ever
+artist(s): Prince
+*****************************
+**********SONG INFO*********
+15
+song name: Nothing Compares 2 U
+preview song: https://p.scdn.co/mp3-preview/f82e1eff1174b582f316f753fddcf486a64d3d60?cid=56e17ae275624cd39d8d45c0a398afff
+album: Dad's Album - Instrumentals - Guitar
+artist(s): The Dreamers
+*****************************
+**********SONG INFO*********
+16
+song name: Nothing Compares 2 U
+preview song: https://p.scdn.co/mp3-preview/87bf5d66c211f764caa37683eb17cbe7500c94ee?cid=56e17ae275624cd39d8d45c0a398afff
+album: Nothing Compares 2 U
+artist(s): Freedom Fry
+*****************************
+**********SONG INFO*********
+17
+song name: Nothing Compares 2 U - Live
+preview song: null
+album: ¡Released! The Human Rights Concerts - An Embrace Of Hope
+artist(s): Sinéad O'Connor
+*****************************
+**********SONG INFO*********
+18
+song name: Nothing Compares 2 U
+preview song: https://p.scdn.co/mp3-preview/4b53333332283ceb82e84a903a8d5a6ceee64ce6?cid=56e17ae275624cd39d8d45c0a398afff
+album: Covers, Vol. 1: "Lady Covers"
+artist(s): Radical Face
+*****************************
+**********SONG INFO*********
+19
+song name: Nothing Compares 2 U (feat. Rosie Gaines) - Live
+preview song: https://p.scdn.co/mp3-preview/aae5c4be674f1afbe89709e2d60f4c129f7a997f?cid=56e17ae275624cd39d8d45c0a398afff
+album: Ultimate
+artist(s): Prince
+*****************************
